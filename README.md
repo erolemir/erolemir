@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Emirhan Erol</h1>
-<h3 align="center">A passionate frontenComputer Programming student at Ege University.d developer from India</h3>
+<h3 align="center">Computer Programming student at Ege University.</h3>
 
 - 🌱 I’m currently learning **web-programming**
 
