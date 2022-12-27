@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Emirhan Erol</h1>
 <h3 align="center">Computer Programming student at Ege University.</h3>
 
-- 🌱 I’m currently learning **web-programming**
+- 🌱 I’m currently learning **front-end development**
 
 - 📫 How to reach me **emirhaanerol@gmail.com**
 
