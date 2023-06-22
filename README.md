@@ -9,9 +9,6 @@
 - 🌱 I’m currently learning Cyber Security and Backend
   
 
-- ⚡ Fun fact: Drink tea and code.  
-  
-
 <br/>  
 
 
