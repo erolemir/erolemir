@@ -6,8 +6,6 @@
 ### <div align="center">I'm Emir, I am trying to develop in the software industry. 👨‍💻 🚀</div>  
   
 
-- 🌱 I’m currently learning Cyber Security and Backend
-  
 
 <br/>  
 
