@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Emir, I am trying to develop in the software industry. 👨‍💻 🚀</div>  
+### <div align="center">I'm Emir, I am Learning Cyber Security 👨‍💻 🚀</div>  
   
 
 
