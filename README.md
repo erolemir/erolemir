@@ -35,7 +35,7 @@
 <div align="center">
 <a href="https://twitter.com/erolemir_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="erolemir_" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/emirhan-erol-9bb676242" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="emirhan-erol-9bb676242" height="30" width="40" /></a>
-<a href="https://instagram.com/erolemir_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="erolemir_" height="30" width="40" /></a>
+<a href="https://instagram.com/erolemir_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="erolemirhan_" height="30" width="40" /></a>
 </div>
 </div>  
   
