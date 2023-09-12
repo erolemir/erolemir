@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm working on making an E commerce site API with Django.<br>🌱 I am learning backend development with Django.
+🔭 I'm working on making an E commerce site with Django.<br>🌱 I am learning backend development with Django.
 
 
 ## 🌐 Socials:
