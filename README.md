@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on rehberin.net<br><br>📫 How to reach me erolemirweb@gmail.com <br>
+📫 How to reach me erolemirweb@gmail.com <br>
 
 
 
